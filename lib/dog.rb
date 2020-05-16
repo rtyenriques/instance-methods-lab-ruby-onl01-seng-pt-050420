@@ -9,5 +9,3 @@ puts "The Dog is sitting"
 end
 
 end
-
-Dog.sit
