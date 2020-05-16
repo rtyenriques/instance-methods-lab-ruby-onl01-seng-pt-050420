@@ -9,3 +9,5 @@ puts "The Dog is siiting"
 end
 
 end
+
+Dog.sit
